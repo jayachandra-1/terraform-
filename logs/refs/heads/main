@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 cb91e046df858809585b2245f475d158cdbbe7cb Your Name <you@example.com> 1670735156 +0530	commit (initial): first commit
+cb91e046df858809585b2245f475d158cdbbe7cb cb91e046df858809585b2245f475d158cdbbe7cb Your Name <you@example.com> 1670735157 +0530	Branch: renamed refs/heads/master to refs/heads/main
+cb91e046df858809585b2245f475d158cdbbe7cb 78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab Your Name <you@example.com> 1670735308 +0530	commit: first commit
+78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab 78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab Your Name <you@example.com> 1670735330 +0530	Branch: renamed refs/heads/main to refs/heads/main
+78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab 78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab Your Name <you@example.com> 1670925936 +0530	Branch: renamed refs/heads/main to refs/heads/main
+78fb6f3dbacb22cef292dd3e4dc29aad0aafbdab baad338bd7a4db57b1bc0eff29261ae7e24a20bc Your Name <you@example.com> 1670926119 +0530	commit: first commit
+baad338bd7a4db57b1bc0eff29261ae7e24a20bc 06cba6551508aa4a6809e2c14aeee89c0289b943 Your Name <you@example.com> 1670926204 +0530	commit: first commit
+06cba6551508aa4a6809e2c14aeee89c0289b943 06cba6551508aa4a6809e2c14aeee89c0289b943 Your Name <you@example.com> 1670926247 +0530	Branch: renamed refs/heads/main to refs/heads/main
+06cba6551508aa4a6809e2c14aeee89c0289b943 06cba6551508aa4a6809e2c14aeee89c0289b943 Your Name <you@example.com> 1670926947 +0530	Branch: renamed refs/heads/main to refs/heads/master
+06cba6551508aa4a6809e2c14aeee89c0289b943 06cba6551508aa4a6809e2c14aeee89c0289b943 Your Name <you@example.com> 1670927333 +0530	Branch: renamed refs/heads/master to refs/heads/main
+06cba6551508aa4a6809e2c14aeee89c0289b943 06cba6551508aa4a6809e2c14aeee89c0289b943 Your Name <you@example.com> 1670928074 +0530	Branch: renamed refs/heads/main to refs/heads/main
